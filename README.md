@@ -4,6 +4,7 @@
 ## 简介
 > 镜像 prophe89twang/ubuntu-front-end-env:v1 简介
 > 这个镜像预安装了以下内容
+> 下载大小150M左右
 
 - ubuntu 20.04 系统 默认已经配置到清华下载源
 - nodejs 12.20.1
