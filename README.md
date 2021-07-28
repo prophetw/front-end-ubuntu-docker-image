@@ -6,10 +6,6 @@
 ## 安装
 ```bash
 
-## win10 可以下载 docker 打包的开发的镜像
-# 当然如果不想使用 docker 镜像
-# win10环境碰到的开发依赖问题 自己可以百度/谷歌搜索解决
-
 # 下载完 docker 可以配置下载源
 ## docker -> settings -> Docker Engine 修改配置如下
 {
@@ -22,7 +18,7 @@
   "debug": false,
   "experimental": true
 }
-# 拉开发镜像
+# 打开 cmd/terminal/powershell 拉开发镜像
 docker pull prophe89twang/ubuntu-front-end-env:v1
 # 启动镜像
 docker run -it --name ubuntu-env prophe89twang/ubuntu-front-end-env
