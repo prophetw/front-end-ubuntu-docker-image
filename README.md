@@ -16,8 +16,9 @@
 - vim
 - zsh 更好用的命令行
 - git
-- nrm npm/yarn 源管理 默认已经切换到 taobao 镜像源
-- setss 会直接走 宿主机 7890 的代理端口 这个可以自行需改
+- nrm npm/yarn 源管理 默认已经切换到 taobao 镜像源 nrm ls 可以看有哪些源
+- setss 开启代理  默认会走宿主机 7890 的代理端口 这个可以自行需改
+- noProxy 关闭代理
 
 ## 安装
 ```bash
